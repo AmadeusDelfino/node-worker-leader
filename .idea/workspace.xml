@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20e2906a-f7d0-4b9c-aada-e9b943e815cc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gQruuDCYvaIGHOcxGTUrHPMeP5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.19.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="10.17.28" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20e2906a-f7d0-4b9c-aada-e9b943e815cc" name="Default Changelist" comment="" />
+      <created>1598057882986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598057882986</updated>
+      <workItem from="1598057884055" duration="6924000" />
+      <workItem from="1598284288473" duration="1262000" />
+      <workItem from="1598308184722" duration="20000" />
+      <workItem from="1598359554282" duration="2540000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="631" y="125" width="638" height="740" key="FileChooserDialogImpl" timestamp="1598308200636">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="631" y="125" width="638" height="740" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1598308200636" />
+    <state x="513" y="154" width="894" height="754" key="find.popup" timestamp="1598361805179">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="513" y="154" width="894" height="754" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1598361805179" />
+    <state x="540" y="248" key="run.anything.popup" timestamp="1598361755567">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="540" y="248" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1598361755567" />
+    <state x="521" y="45" width="875" height="1034" key="search.everywhere.popup" timestamp="1598058439733">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="521" y="45" width="875" height="1034" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1598058439733" />
+  </component>
+</project>
